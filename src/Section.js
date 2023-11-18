@@ -8,7 +8,7 @@ export function Section() {
               <h2 class="display-5 fw-bolder">
                 <span class="text-gradient d-inline">About Me</span>
               </h2>
-              <p class="lead fw-light mb-4">
+              <p class="lead fw-light mb-4 fw-bold">
                 Emmanuel Boucicaut / .Net Developer / Full Stack Developer/
               </p>
               <p class="text-muted">

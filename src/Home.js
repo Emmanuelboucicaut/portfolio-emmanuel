@@ -6,8 +6,8 @@ import { Footer } from "./Footer";
 
 export default function Home() {
   return (
-    <div class="d-flex flex-column h-100">
-      <main class="flex-shrink-0">
+    <div className="d-flex flex-column h-100">
+      <main className="flex-shrink-0">
         <Nav />
         <Header />
         <Section />
